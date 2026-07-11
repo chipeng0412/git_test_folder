@@ -1,2 +1,2 @@
 print("hi")
-print("hifegubouwe")
+print("wo shi huang zhi peng")
