@@ -1,2 +1,2 @@
 print("hi")
-print("wo shi huang zhi peng")
+print(" shi huang zhi peng")
